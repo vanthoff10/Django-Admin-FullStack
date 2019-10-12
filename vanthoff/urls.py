@@ -11,6 +11,7 @@ urlpatterns = [
     path('', TemplateView.as_view(template_name='index.html'), name='index'),
     path('landing/', TemplateView.as_view(template_name='home.html'), name='home'),
     path('dashboard/', TemplateView.as_view(template_name='dept1.html'), name='home'),
+    path('charts/', TemplateView.as_view(template_name='charts.html'), name='charts'),
     path('admin/', admin.site.urls),
     path('dell/', include('django.contrib.auth.urls')),
     # path('dept1/', views.compute, name="department1"),
