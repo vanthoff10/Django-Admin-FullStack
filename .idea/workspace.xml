@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0626b11a-7c7a-4ada-8305-bc55cf0faeb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vanthoff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dell.numbers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/static/landing/dellWebsite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sampleCSV.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/Chart.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/gmaps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery-1.12.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery-3.3.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/masonry.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/particles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/swiper_custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/Chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/Chart.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/card1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/card2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/card3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/dellWebsite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/final.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/final.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/SidebarNav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/export.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/jqcandlestick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/monthly.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/slider7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/images/weather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/SidebarNav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/SimpleChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/amcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/chartinator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/export.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/images/lens.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/index1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/jquery.jqcandlestick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/monthly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/serial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dashboard/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/AR1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/AR1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/AR2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/ARcode2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/QRcode1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/about_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/about_img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/about_shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/Shape-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/Shape-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/Shape-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/shape-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/shape-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/shape-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/shape-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/shape-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/animate_icon/shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/author/author_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/author/author_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/author/author_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/banner_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/banner_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/learn_about_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/single_blog_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/single_blog_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/single_blog_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/single_blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/single_blog_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/slide_thumb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/breadcrumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/cardone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/cardthree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/cardtwo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/comment/comment_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/comment/comment_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/comment/comment_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/cta_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/footer_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/footer_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/color_star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/feature_icon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/feature_icon_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/feature_icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/feature_icon_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/feature_icon_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/feature_icon_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/quate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/right-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icon/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/left_sharp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/main1SVG.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/post_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/post/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/dept1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanthoff/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanthoff/records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanthoff/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanthoff/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanthoff/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanthoff/wsgi.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vanthoff" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/dept1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#4;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#28200#28206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>980</find>
+      <find>fonta</find>
+      <find>feature</find>
+      <find>fas</find>
+      <find>login</find>
+      <find>sidebar</find>
+      <find>wrap</find>
+      <find>login-logo</find>
+      <find>/login/login</find>
+      <find>img</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/styles.css" />
+        <option value="$PROJECT_DIR$/landing/urls.py" />
+        <option value="$PROJECT_DIR$/static/JS/main.js" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/vanthoff/settings.py" />
+        <option value="$PROJECT_DIR$/landing/views.py" />
+        <option value="$PROJECT_DIR$/static/css/login.css" />
+        <option value="$PROJECT_DIR$/static/JS/login.js" />
+        <option value="$PROJECT_DIR$/templates/registration/login.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/vanthoff/urls.py" />
+        <option value="$PROJECT_DIR$/templates/dept1.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="728" />
+    <option name="y" value="23" />
+    <option name="width" value="727" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vanthoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vanthoff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vanthoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vanthoff" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vanthoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vanthoff" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vanthoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vanthoff" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vanthoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vanthoff" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/vanthoff" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/landing/static/landing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0626b11a-7c7a-4ada-8305-bc55cf0faeb9" name="Default Changelist" comment="" />
+      <created>1570443784129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570443784129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="432" y="23" width="727" height="837" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49671772" visible="true" weight="0.3186969" />
+      <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.093573846" />
+      <window_info id="Favorites" order="2" sideWeight="0.502193" side_tool="true" weight="0.2229539" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970026" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.347651" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/styles.css" />
+    <entry file="file://$PROJECT_DIR$/static/css/dellWebsite.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleCSV.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/records.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vanthoff/records.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/final.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/card1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10625" selection-start-line="3" selection-start-column="10625" selection-end-line="3" selection-end-column="10625" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/cardone.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/cardthree.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/main1SVG.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/QRcode1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/ARcode2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/JS/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="220" column="25" lean-forward="true" selection-start-line="220" selection-start-column="25" selection-end-line="220" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/JS/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="2615" selection-start-line="2615" selection-end-line="2615" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vanthoff/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1486">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vanthoff/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2590">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="e#44936#44942#0" expanded="true" />
+            <element signature="e#44942#44948#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dept1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#4;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#28200#28206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
